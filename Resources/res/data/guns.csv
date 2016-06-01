@@ -1,0 +1,6 @@
+type,bulletNum,backlash,impact,shootSpeed,bulletSpeed
+SMG,100,2,70,5,1000
+AMP,8,3,300,1,900
+LMG,80,2,120,4,800
+pistol,10,1,60,4,700
+shotgun,12,2,200,3,700
